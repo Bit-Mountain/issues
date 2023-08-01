@@ -1,1 +1,1 @@
-这是专门用于提交issuee的仓库，欢迎大家提交issuee。
+# [查看 Issues](https://github.com/Bit-Mountain/issues/issues) | [创建一个 Issue](https://github.com/Bit-Mountain/issues/issues/new)
